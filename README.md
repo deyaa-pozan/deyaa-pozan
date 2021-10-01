@@ -19,7 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Node.js](https://img.shields.io/badge/%20-node-orange)
+![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=flat&logo=mongodb)
+
 
 ##### Some of the technologies I have worked with
 
