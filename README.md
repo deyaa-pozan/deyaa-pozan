@@ -16,7 +16,7 @@
 
 ### 💼 Professional Experience
 
-- **Full-Stack Developer** at Connected Motion (part of Toyota) | Jan 2022 - Present
+- **Full-Stack Developer** at Connected Motion | Jan 2022 - Present
   - Spearheaded the development of scalable web applications using Node.js, Express.js, MongoDB, and TypeScript.
 - **Backend Developer** at Inbuco | Apr 2021 - Oct 2021
   - Developed and maintained robust backend services with NodeJS, ExpressJS, and MongoDB, enhancing application performance and user experience.
